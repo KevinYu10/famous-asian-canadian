@@ -1,0 +1,30 @@
+h1{
+	text-align:center;
+	color:#ffffff;
+	font-family: Staatliches;
+}
+div{
+	margin-left:auto;
+	margin-right:auto;
+	width:500px;
+	background-color:#ff4040;
+	border:4px solid black;
+	margin-bottom:40px;
+	padding:10px;
+}
+body{
+	font-size:16pt;
+	background-image:url(tam.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+}
+a{
+	color:black;
+}
+p{
+	line-height:1.35em;
+	font-family: Kalam;
+}
+h2{
+	font-family: Lato;
+}
